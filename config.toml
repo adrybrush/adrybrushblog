@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 pygmentsUseClasses = true
 disqusShortname = "adrybrush"
 canonifyurls = true
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-82401688-1"
 
 [Params]
   #logo = "images/MirrorShield.jpg"
