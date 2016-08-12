@@ -1,0 +1,38 @@
+baseurl = "https://adrybrush.github.io/"
+languageCode = "en-us"
+title = "a dry brush"
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+disqusShortname = "adrybrush"
+canonifyurls = true
+#googleAnalytics = "XXX"
+
+[Params]
+  #logo = "images/MirrorShield.jpg"
+  #subtitle = "Build a beautiful and simple website in minutes"
+
+[Author]
+  #name = "a dry brush"
+  email = "adrybrush@gmail.com"
+  #facebook = "username"
+  github = "adrybrush"
+  #twitter = "username"
+  #linkedin = "pub/username/X/YYY/ZZZ"
+  #stackoverflow = "XXXXXXX/username"
+  #soundcloud = "username"
+  #wikipedia = "username"
+
+[[menu.main]]
+    name = "Posts"
+    url = "/"
+    weight = 1
+    
+[[menu.main]]
+    name = "Art"
+    url = "/page/art/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 3
