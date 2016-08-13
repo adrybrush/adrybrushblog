@@ -4,9 +4,10 @@ date: "2016-08-13T09:40:28-04:00"
 draft: false
 layout: page
 title:  Star Trek VI
+previewimage: "/thumbs/star-trek-vi.jpg"
 ---
 
-The Enterprise and Klingon Battle Cruiser from *Star Trek VI: The Undiscovered Country.*
+This is the Enterprise with a Klingon Battlecruise from *Star Trek VI: The Undiscovered Country*
 
 
-![star-trek-vi](/images/star-trek-vi.jpg)
+![star-trek-vi](/thumbs/star-trek-vi.jpg)
