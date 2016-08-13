@@ -1,16 +1,17 @@
-#!/bin/bash
+#!/bin/sh
 
 #build project
 hugo --theme=beautifulhugo
 
 #Add changes to git
-git add -A
-
-#Commit changes
-
-git commit -m “rebuilding site”
+git add .
+git commit -m “building site”
 
 #Push source and build repos.
-
 git push origin master
-git subtree push --prefix=public git@github.com:adrybrush/adrybrushblog.git gh-pages
+
+
+cd public
+git add .
+git commit 
+git push origin master

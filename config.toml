@@ -8,8 +8,8 @@ canonifyurls = true
 googleAnalytics = "UA-82401688-1"
 
 [Params]
-  #logo = "images/MirrorShield.jpg"
-  #subtitle = "Build a beautiful and simple website in minutes"
+  #logo = ""
+  #subtitle = ""
 
 [Author]
   #name = "a dry brush"
