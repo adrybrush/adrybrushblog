@@ -14,4 +14,4 @@ For people unfamiliar with *Star Trek*, this drawing is of the Enterprise-D made
 This piece was drawn in a notebook using a pencil. Later it was traced with a pen and painted with water color and detailed with color pencil. Much more exciting to do than to read about, let me know what you think~
 
 
-![enterprise-d](/images/enterprise-d.jpg)
+[![enterprise-d](/images/enterprise-d.jpg)](/images/enterprise-d.jpg)
