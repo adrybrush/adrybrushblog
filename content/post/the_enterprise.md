@@ -4,6 +4,7 @@ date: "2016-08-12T05:45:48-04:00"
 draft: false
 layout: page
 title: The Enterprise
+previewimage: "/thumbs/enterprise-d.jpg"
 ---
 
 This is my first post~ I'm hoping this blog will serve as a place for me to practice my writing and upload stuff I've been drawing. Recently I've been drawing ships from Star Trek.

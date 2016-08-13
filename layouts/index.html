@@ -49,12 +49,22 @@
               </p>
             
               <div class="post-entry">
-                  {{if .Params.previewimage}}
-                    <img src={{ .Params.previewimage}} alt="previewimg" style="width:128px;height:128px;">
-                  {{ end }}
+                 
+                {{if .Params.previewimage}}
                 
-                  {{ .Summary }}
-          	  <a href="{{ .Permalink }}" class="post-read-more">[Read&nbsp;More]</a>
+                  <table>
+                    <tr></tr>
+                <tr><td class="preview-table"><a href="{{ .Permalink }}"><img src={{ .Params.previewimage}} alt="previewimg"></a></td>
+                    <td class="preview-tableC2">{{ .Summary }}<a href="{{ .Permalink }}" class="post-read-more">[Read&nbsp;More]</a>
+                  </td></tr>
+                </table> 
+                  {{ end }}  
+                  
+                  
+                  {{if not .Params.previewimage}}
+                    {{ .Summary }} <a href="{{ .Permalink }}" class="post-read-more">[Read&nbsp;More]</a>
+                  {{end}}
+                  
                 
               </div>
             
