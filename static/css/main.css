@@ -327,6 +327,7 @@ footer .theme-by {
 
 .post-preview .preview-tableC2 {
     vertical-align: text-top;
+    text-align: left;
 }
 
 .post-preview .post-read-more {
@@ -542,13 +543,13 @@ table tr:nth-child(2n) {
 table tr th {
   font-weight: bold;
   border: 0px solid #cccccc;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
   border: 0px solid #cccccc;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 6px 13px;
 }
