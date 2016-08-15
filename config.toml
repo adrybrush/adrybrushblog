@@ -1,4 +1,4 @@
-baseurl = "https://adrybrush.github.io/"
+baseurl = "http://adrybrush.github.io/"
 languageCode = "en-us"
 title = "a dry brush"
 theme = "beautifulhugo"
